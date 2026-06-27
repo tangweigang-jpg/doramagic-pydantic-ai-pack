@@ -1,0 +1,31 @@
+{
+  "schema": "doramagic.github_pack.v1",
+  "version": "v1.0.0",
+  "slug": "pydantic-ai",
+  "upstream_repo": "pydantic/pydantic-ai",
+  "canonical_url": "https://doramagic.ai/en/projects/pydantic-ai/",
+  "pack_type": "AI Agent Framework Context Pack",
+  "outcome_promise": "Load Pydantic AI agent runtime context, tool-call boundaries, state handoff checks, tracing notes, and eval guidance into your AI host before building agent apps.",
+  "relationship": "independent; not affiliated or endorsed unless explicitly stated",
+  "required_files": [
+    "README.md",
+    "README.zh-CN.md",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "00_QUICK_START.md",
+    "01_PROMPT_PREVIEW.md",
+    "02_AI_CONTEXT_PACK/README.md",
+    "03_PITFALL_LOG.md",
+    "04_BOUNDARY_RISK_CARD.md",
+    "05_HUMAN_MANUAL.md",
+    "06_EVALS/smoke_check.md",
+    "06_EVALS/boundary_check.md",
+    "06_EVALS/failure_check.md",
+    "SOURCE_MAP.md",
+    "DIFFERENTIATION.md",
+    "TEST_LOG.md",
+    "CHANGELOG.md",
+    "NOTICE",
+    "LICENSE"
+  ]
+}
